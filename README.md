@@ -23,6 +23,6 @@ install dependencies with 'npm install' then run 'node index.js' and flollow the
 
 ## Links
 
-(demo video)[https://youtu.be/nPhMDEgO2YU]
+[demo video](https://youtu.be/nPhMDEgO2YU)
 
-(repository)[https://github.com/ReallyAwesomeName/employee-tracker/]
+[repository](https://github.com/ReallyAwesomeName/employee-tracker/)
