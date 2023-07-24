@@ -168,13 +168,12 @@ function addEmployee() {
       {
         type: "input",
         name: "role_id",
-        message: "What is the role ID of the employee you would like to add?",
+        message: "What is the role ID for this new employee?",
       },
       {
         type: "input",
         name: "manager_id",
-        message:
-          "What is the manager ID of the employee you would like to add?",
+        message: "What is the manager ID for this new employee?",
       },
     ])
     .then(function (answer) {
@@ -202,14 +201,13 @@ function updateEmployeeRole() {
       {
         type: "input",
         name: "employee_id",
-        message:
-          "What is the employee ID of the employee you would like to update?",
+        message: "What is the ID of the employee you would like to update?",
       },
       {
         type: "input",
         name: "role_id",
         message:
-          "What is the role ID of the employee you would like to update?",
+          "What is the new role ID for the employee you would like to update?",
       },
     ])
     .then(function (answer) {
