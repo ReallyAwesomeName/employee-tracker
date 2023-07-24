@@ -14,5 +14,5 @@ INSERT INTO employee (
     )
 VALUES ('emp1fn', 'emp1ln', 1, NULL),
     ('emp2fn', 'emp2ln', 2, 1),
-    ('emp3fn', 'emp3ln', 3, 2);
-('emp4fn', 'emp4ln', 4, 2);
+    ('emp3fn', 'emp3ln', 3, 2),
+    ('emp4fn', 'emp4ln', 2, 3);
